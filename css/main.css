@@ -659,16 +659,16 @@ video {
   background-color: hsl(157, 57%, 15%);;
 }
 
-@media (min-width: 1440px){
-  .lg\:w-\[558px\]{
+@media (min-width: 768px){
+  .md\:w-\[558px\]{
     width: 558px;
   }
 
-  .lg\:w-1\/2{
+  .md\:w-1\/2{
     width: 50%;
   }
 
-  .lg\:flex-row{
+  .md\:flex-row{
     flex-direction: row;
   }
 }
