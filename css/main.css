@@ -519,12 +519,28 @@ video {
   display: flex;
 }
 
+.hidden{
+  display: none;
+}
+
 .h-screen{
   height: 100vh;
 }
 
 .w-\[345px\]{
   width: 345px;
+}
+
+.w-\[340px\]{
+  width: 340px;
+}
+
+.w-\[320px\]{
+  width: 320px;
+}
+
+.w-\[34px\]{
+  width: 34px;
 }
 
 .cursor-pointer{
@@ -660,6 +676,14 @@ video {
 }
 
 @media (min-width: 768px){
+  .md\:flex{
+    display: flex;
+  }
+
+  .md\:hidden{
+    display: none;
+  }
+
   .md\:w-\[558px\]{
     width: 558px;
   }

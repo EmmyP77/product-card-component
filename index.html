@@ -13,13 +13,8 @@
         <div class="h-screen flex justify-center items-center">
             <div class="w-[345px] md:w-[558px] flex flex-col md:flex-row rounded-xl overflow-hidden">
                 <div class="md:w-1/2">
-                    <img 
-                        srcset="images/image-product-mobile.jpg 686w,
-                                images/image-product-desktop.jpg 600w"
-                        sizes="(max-width: 768px) 686px,
-                                600px"
-                        src="images/image-product-mobile.jpg"
-                        alt="Gabrielle Essence Eau Parfum" />
+                    <img class="hidden md:flex" src="images/image-product-desktop.jpg" alt="">
+                    <img class="md:hidden" src="images/image-product-mobile.jpg" alt="">
                 </div>
                 <div class="flex flex-col p-[26px] space-y-4 md:w-1/2 bg-white justify-content">
                     <h5 class="text-darkGreyishBlue text-sm tracking-[.24em] font-Montserrat font-medium">PERFUME</h5>
