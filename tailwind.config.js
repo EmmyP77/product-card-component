@@ -2,10 +2,6 @@
 module.exports = {
   content: ['./*.html'],
   theme: {
-    screens: {
-      sm: '375px',
-      lg: '1440px'
-    },
     extend: {
       colors: {
         darkCyan: 'hsl(158, 36%, 37%)',
