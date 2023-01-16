@@ -37,16 +37,16 @@ Users should be able to:
 ### Built with
 
 - HTML5
-- Tailwindcss
+- Tailwind CSS
 - Mobile-first workflow
 
 ### What I learned
 
-Well, this is my very first Frontend Mentor challenge, and it happened to coincide with my discovery of Tailwindcss. Naturally, I decided to use the framework for this project. You know, for something that looks so easy, it was a lot of going back-and-forth between VSCode, Tailwindcss docs, StackOverflow and other sites. It was also while working on this project that I got familiar with flexbox in CSS. 
+Well, this is my very first Frontend Mentor challenge, and it happened to coincide with my discovery of Tailwind CSS. Naturally, I chose to use the framework for this project. You know, for something that looks so easy, it was a lot of going back-and-forth between VSCode, Tailwindcss docs, StackOverflow and other sites. It was also while working on this project that I got familiar with flexbox in CSS. 
 
 ### Useful resources
 
-- [Tailwindcss docs](https://tailwindcss.com/docs/) 
+- [Tailwind CSS docs](https://tailwindcss.com/docs/) 
 - [Flexbox article](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/) - Helped me a lot in getting acquainted with flexbox.
 
 ## Author
