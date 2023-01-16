@@ -47,7 +47,6 @@ Well, this is my very first Frontend Mentor challenge, and it happened to coinci
 ### Useful resources
 
 - [Tailwindcss docs](https://tailwindcss.com/docs/) 
-- 
 - [Flexbox article](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/) - Helped me a lot in getting acquainted with flexbox.
 
 ## Author
